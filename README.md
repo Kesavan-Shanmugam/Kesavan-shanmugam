@@ -1,5 +1,5 @@
 <h1 align="center">I'm Kesavan</h1>
-<h3 align="center">Embedded Systems & PCB Design Enthusiast | IoT Learner</h3>
+<h3 align="center">Embedded Systems & PCB Designer | IoT Learner</h3>
 
 ---
 
