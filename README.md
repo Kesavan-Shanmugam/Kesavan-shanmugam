@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kesavan</h1>
+<h1 align="center">I'm Kesavan</h1>
 <h3 align="center">Embedded Systems & PCB Design Enthusiast | IoT Learner</h3>
 
 ---
